@@ -1,5 +1,5 @@
 
-title: My Resume
+title: Brian J. King - Professional Resume
 url: 'http://webjeda.com'
 baseurl: '/online-cv' #change it according to your repository name
 
@@ -13,16 +13,16 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
+name: Brian J. King
+tagline: Project Manager 
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
+email: brianjosephking@gmail.com
+phone: 312.889.4831
 website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+linkedin: brianjking
+github: brianjking
+twitter: '@brianjking'
 
 #Update all the sections by editing the files inside _includes folder.
